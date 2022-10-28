@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arjun-janva
+- 👋 Hi, I’m @Arjun Chaudhary
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python Web Development
 - 💞️ I’m looking to collaborate on inst_id : arjunn_choudharyy 
